@@ -1,0 +1,162 @@
+[
+  {
+    "question": "What are your opening hours?",
+    "answer": "TechZone Computers is open from 9:00 AM to 7:00 PM, Monday to Saturday. We are closed on Sundays and public holidays."
+  },
+  {
+    "question": "Are you open on Sundays?",
+    "answer": "No, TechZone Computers is closed on Sundays and public holidays. We are open Monday to Saturday, 9:00 AM to 7:00 PM."
+  },
+  {
+    "question": "Where is TechZone Computers located?",
+    "answer": "We are located at No. 45, Galle Road, Colombo 03, on the ground floor of the Galle Road Tech Centre."
+  },
+  {
+    "question": "What is your phone number?",
+    "answer": "You can call TechZone Computers on +94 11 234 5678 during our opening hours."
+  },
+  {
+    "question": "Do you have a WhatsApp number?",
+    "answer": "Yes, you can message us on WhatsApp at +94 77 123 4567."
+  },
+  {
+    "question": "What is your website?",
+    "answer": "Our website is www.techzonecomputers.lk, where you can browse products and check prices."
+  },
+  {
+    "question": "Who founded TechZone Computers?",
+    "answer": "TechZone Computers was founded in 2015 by Nimal Perera."
+  },
+  {
+    "question": "Do you repair laptops?",
+    "answer": "Yes, we repair all major laptop brands. Most repairs are completed within 2 to 3 working days."
+  },
+  {
+    "question": "How much does a repair diagnosis cost?",
+    "answer": "Diagnosis is free at TechZone Computers. We only charge if you approve the repair."
+  },
+  {
+    "question": "How long does a laptop screen replacement take?",
+    "answer": "If the screen is in stock, we can replace it on the same day. Otherwise it takes 3 to 5 working days."
+  },
+  {
+    "question": "How much does a laptop battery replacement cost?",
+    "answer": "Laptop battery replacements start from LKR 8,000, depending on the model."
+  },
+  {
+    "question": "Can you remove viruses from my computer?",
+    "answer": "Yes, our virus removal service costs LKR 2,500 and is usually completed on the same day."
+  },
+  {
+    "question": "Do you install Windows?",
+    "answer": "Yes, Windows installation with all drivers costs LKR 3,000. A genuine Windows licence is sold separately."
+  },
+  {
+    "question": "Do you offer data recovery?",
+    "answer": "Yes, we offer data recovery starting from LKR 5,000, depending on the damage to the drive."
+  },
+  {
+    "question": "Do you repair MacBooks?",
+    "answer": "Yes, we repair MacBooks. We have an Apple-trained technician on our team."
+  },
+  {
+    "question": "Do you repair mobile phones?",
+    "answer": "No, TechZone Computers specialises in computers, laptops and printers only. We do not repair mobile phones."
+  },
+  {
+    "question": "Do you offer laptop cleaning?",
+    "answer": "Yes, our internal cleaning and thermal paste replacement service costs LKR 3,500 and helps stop overheating."
+  },
+  {
+    "question": "Can you upgrade my RAM or SSD?",
+    "answer": "Yes, and installation is free when you buy the RAM or SSD from TechZone Computers."
+  },
+  {
+    "question": "What warranty do you give on repairs?",
+    "answer": "All repairs come with a 3-month warranty on both parts and labour."
+  },
+  {
+    "question": "What warranty comes with a new laptop?",
+    "answer": "New laptops come with a 1-year manufacturer warranty. You can add a 2-year TechZone extended warranty for LKR 15,000."
+  },
+  {
+    "question": "Which laptop brands do you sell?",
+    "answer": "We sell Dell, HP, Lenovo, ASUS, Acer and Apple MacBook laptops."
+  },
+  {
+    "question": "What is the cheapest laptop you sell?",
+    "answer": "Our entry-level laptops start from LKR 150,000."
+  },
+  {
+    "question": "Which laptop do you recommend for students?",
+    "answer": "For students we recommend the Lenovo IdeaPad or HP 15 series. They are affordable and good for studying and assignments."
+  },
+  {
+    "question": "Do you sell refurbished laptops?",
+    "answer": "Yes, we sell refurbished laptops, and they come with a 6-month TechZone warranty."
+  },
+  {
+    "question": "Can you build a custom gaming PC?",
+    "answer": "Yes, we build custom gaming PCs within 5 working days, and assembly is free."
+  },
+  {
+    "question": "Do you sell printers and ink?",
+    "answer": "Yes, we sell HP, Canon and Epson printers along with original ink cartridges."
+  },
+  {
+    "question": "What accessories do you sell?",
+    "answer": "We sell keyboards, mice, headsets, laptop bags, monitors, cables and external hard drives."
+  },
+  {
+    "question": "Do you give student discounts?",
+    "answer": "Yes, students get 10% off laptops and accessories when they show a valid student ID."
+  },
+  {
+    "question": "What payment methods do you accept?",
+    "answer": "We accept cash, Visa and Mastercard, and bank transfers."
+  },
+  {
+    "question": "Do you have installment plans?",
+    "answer": "Yes, we offer 0% installment plans for up to 12 months with selected bank credit cards."
+  },
+  {
+    "question": "Do you deliver?",
+    "answer": "Yes, delivery is free within Colombo for orders above LKR 50,000. Island-wide delivery takes 3 working days and costs LKR 1,500."
+  },
+  {
+    "question": "What is your return policy?",
+    "answer": "You can return unopened products within 7 days with the original receipt."
+  },
+  {
+    "question": "Can I trade in my old laptop?",
+    "answer": "Yes, you can trade in your old laptop for credit towards a new one. We assess its value in store."
+  },
+  {
+    "question": "Do you price match?",
+    "answer": "Yes, we match the price of any authorised retailer in Colombo for the same item in stock."
+  },
+  {
+    "question": "Do you have a loyalty program?",
+    "answer": "Yes, TechZone Rewards gives you 1 point for every LKR 1,000 spent. 100 points can be exchanged for a LKR 1,000 voucher."
+  },
+  {
+    "question": "Can I pre-order a laptop?",
+    "answer": "Yes, you can pre-order with a 20% deposit, and we will contact you when it arrives."
+  },
+  {
+    "question": "How can I check the status of my repair?",
+    "answer": "Call us or send a WhatsApp message with your job number and we will give you an update."
+  },
+  {
+    "question": "Do you provide on-site support for businesses?",
+    "answer": "Yes, on-site support within Colombo costs LKR 5,000 per visit. We also offer annual maintenance contracts for businesses."
+  },
+  {
+    "question": "Is there parking at the shop?",
+    "answer": "Yes, there is free customer parking for 1 hour behind the shop."
+  },
+  {
+    "question": "Do you run any workshops?",
+    "answer": "Yes, we run a free PC Basics workshop on the first Saturday of every month at 10:00 AM."
+  }
+]
